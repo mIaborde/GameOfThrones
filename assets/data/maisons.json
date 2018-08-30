@@ -1,0 +1,233 @@
+[
+    {
+        "nom": "Starks",
+        "description": "La Maison Stark est l'une des grandes maisons de Westeros. Ils règnent sur la vaste région du Nord depuis leur siège, Winterfell, un château situé au centre de la région.",
+        "blason": "./assets/img/houses/stark.png",
+        "devise": "L'hiver vient",
+        "gens": [
+          {
+            "nom": "Eddard \"Ned\" Stark",
+            "description": "Lord of Winterfell - Warden of the North - Hand of the King - Married to Catelyn (Tully) Stark",
+            "image": "./assets/img/characters/starkEddard.jpg"
+          },
+          {
+            "nom": "Benjen Stark",
+            "description": "Brother of Eddard Stark - First ranger of the Night's Watch",
+            "image": "./assets/img/characters/starkBenjen.jpg"
+          },
+          {
+            "nom": "Robb Stark",
+            "description": "Son of Eddard and Catelyn Stark - Direwolf: Grey Wind",
+            "image": "./assets/img/characters/starkRobb.jpg"
+          },
+          {
+            "nom": "Sansa Stark",
+            "description": "Daughter of Eddard and Catelyn Stark - Direwolf: Lady",
+            "image": "./assets/img/characters/starkSansa.jpg"
+          },
+          {
+            "nom": "Arya Stark",
+            "description": "Daughter of Eddard and Catelyn Stark - Direwolf: Nymeria",
+            "image": "./assets/img/characters/starkArya.jpg"
+          },
+          {
+            "nom": "Brandon \"Bran\" Stark",
+            "description": "Son of Eddard and Catelyn Stark - Direwolf: Summer",
+            "image": "./assets/img/characters/starkBrandon.jpg"
+          },
+          {
+            "nom": "Rickon Stark",
+            "description": "Son of Eddard and Catelyn Stark - Direwolf: Shaggydog",
+            "image": "./assets/img/characters/starkRickon.jpg"
+          },
+          {
+            "nom": "Jon Snow",
+            "description": "Bastard son of Eddard Stark - Steweard in the Night's Watch - Direwolf: Ghost",
+            "image": "./assets/img/characters/starkJon.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Lannisters",
+        "description": "La Maison Lannister est l'une des grandes maisons de Westeros et également l'actuelle maison royale des Sept Couronnes. Ils règnent sur la vaste région des Terres de l'Ouest depuis leur siège, Castral Roc, un château surplombant Port-Lannis.",
+        "blason": "./assets/img/houses/lannister.png",
+        "devise": "Un Lannister paie toujours ses dettes",
+        "gens": [
+          {
+            "nom": "Tywin Lannister",
+            "description": "Lord of Casterly Rock - Warden of the West",
+            "image": "./assets/img/characters/lannisterTywin.jpg"
+          },
+          {
+            "nom": "Tyrion Lannister",
+            "description": "Son of Tywin Lannister - The Imp",
+            "image": "./assets/img/characters/lannisterTyrion.jpg"
+          },
+          {
+            "nom": "Jaime Lannister",
+            "description": "The Kingslayer - Knight of the Kingsgaurd - Son of Tywin Lannister",
+            "image": "./assets/img/characters/lannisterJaime.jpg"
+          },
+          {
+            "nom": "Cersei (Lannister) Baratheon",
+            "description": "Married to King Robert Baratheon - Daughter of Tywin Lannister",
+            "image": "./assets/img/characters/lannisterCersei.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Baratheons",
+        "description": "La Maison Baratheon était une grande maison de Westeros. Ils régnaient sur la vaste région des Terres de l'Orage depuis leur siège, Accalmie, un château situé au sud-est de Port-Réal.",
+        "blason": "./assets/img/houses/baratheon.png",
+        "devise": "Nôtre est la fureur",
+        "gens": [
+          {
+            "nom": "King Robert Baratheon",
+            "description": "The first of his nom - Lord of the Seven Kingdoms",
+            "image": "./assets/img/characters/baratheonRobert.jpg"
+          },
+          {
+            "nom": "Stannis Baratheon",
+            "description": "Lord of Dragonstone - Master of Ships - Brother of Robert Baratheon",
+            "image": "./assets/img/characters/baratheonStannis.jpg",
+            "wikiSuffix": "Stannis_Baratheon"
+          },
+          {
+            "nom": "Renly Baratheon",
+            "description": "Lord of Storm's End - Master of Laws - Brother of Robert Baratheon",
+            "image": "./assets/img/characters/baratheonRenly.jpg",
+            "wikiSuffix": "Renly_Baratheon"
+          },
+          {
+            "nom": "Joffrey Baratheon",
+            "description": "Heir to the Iron Throne - Son of Robert and Cersei Baratheon",
+            "image": "./assets/img/characters/baratheonJoffrey.jpg",
+            "wikiSuffix": "Joffrey_Baratheon"
+          },
+          {
+            "nom": "Tommen Baratheon",
+            "description": "Son of Robert and Cersei Baratheon",
+            "image": "./assets/img/characters/baratheonTommen.jpg",
+            "wikiSuffix": "Tommen_Baratheon"
+          },
+          {
+            "nom": "Myrcella Baratheon",
+            "description": "Daughter of Robert and Cersei Baratheon",
+            "image": "./assets/img/characters/baratheonMyrcella.jpg",
+            "wikiSuffix": "Myrcella_Baratheon"
+          }
+        ]
+      },
+      {
+        "nom": "Targaryens",
+        "description": "La Maison Targaryen est une ancienne grande maison de Westeros. Ils ont vécu pendant des siècles sur l'île de Peyredragon jusqu'à ce qu'Aegon le Conquérant et ses sœurs, chevauchant leurs dragons, réussissent à conquérir les Sept Couronnes.",
+        "blason": "./assets/img/houses/targaryen.png",
+        "devise": "Feu et Sang",
+        "gens": [
+          {
+            "nom": "Daenerys Targaryen",
+            "description": "Stormborn - Khaleesi of the Dothraki - The Unburnt - Mother of Dragons - Daughter of Aerys II Targaryen \"The Mad King\"",
+            "image": "./assets/img/characters/targaryenDaenerys.jpg",
+            "wikiSuffix": "Daenerys_Targaryen"
+          },
+          {
+            "nom": "Viserys Targaryen",
+            "description": "The Beggar King - Son of Aerys II Targaryen \"The Mad King\"",
+            "image": "./assets/img/characters/targaryenViserys.jpg",
+            "wikiSuffix": "Viserys_Targaryen"
+          }
+        ]
+      },
+      {
+        "nom": "Greyjoys",
+        "description": "La Maison Greyjoy est l'une des grandes maisons de Westeros. Elle règne sur les Îles de Fer, un ensemble d'îles rocheuses. La Maison est formée de marins qui naviguent sur les mers, ils honorent les traditions Fer-nés.",
+        "blason": "./assets/img/houses/greyjoy.png",
+        "devise": "Ce qui est mort ne saurait mourir",
+        "gens": [
+          {
+            "nom": "Balon Greyjoy",
+            "description": "Lord Reaper of Pyke - Head of House Greyjoy",
+            "image": "./assets/img/characters/greyjoyBalon.jpg",
+            "wikiSuffix": "Balon_Greyjoy"
+          },
+          {
+            "nom": "Theon Greyjoy",
+            "description": "Ward of the Starks - Heir to the Iron Islands - Son of Balon Greyjoy",
+            "image": "./assets/img/characters/greyjoyTheon.jpg",
+            "wikiSuffix": "Theon_Greyjoy"
+          },
+          {
+            "nom": "Yara Greyjoy",
+            "description": "Ironborn - Son of Balon Greyjoy",
+            "image": "./assets/img/characters/greyjoyYara.jpg",
+            "wikiSuffix": "Yara_Greyjoy"
+          }
+        ]
+      },
+      {
+        "nom": "Tyrells",
+        "description": "La Maison Tyrell était l'une des grandes maisons de Westeros. Ils régnaient sur la vaste région du Bief depuis leur siège, Hautjardin, un château situé sur les rives du fleuve Mander.",
+        "blason": "./assets/img/houses/tyrell.png",
+        "devise": "Plus haut, plus fort",
+        "gens": [
+          {
+            "nom": "Margaery (Tyrell) Baratheon",
+            "description": "Wife of Renly Baratheon - Sister of Loras Tyrell - Granddaughter of Olenna Tyrell",
+            "image": "./assets/img/characters/tyrellMargaery.jpg",
+            "wikiSuffix": "Margaery_Tyrell"
+          },
+          {
+            "nom": "Loras Tyrell",
+            "description": "Heir to Highgarden - Commander of the Kings Gaurd - Brother of Margaery Baratheon",
+            "image": "./assets/img/characters/tyrellLoras.jpg",
+            "wikiSuffix": "Loras_Tyrell"
+          }
+        ]
+      },
+      {
+        "nom": "Tullys",
+        "description": "La Maison Tully est une Grande Maison exilée de Westeros. Ils régnaient sur la vaste région du Conflans depuis leur siège ancestral, Vivesaigues, un château situé à l'ouest d'Harrenhal et au sud des Jumeaux. Le seigneur actuel est Lord Edmure Tully, fils de Hoster Tully.",
+        "blason": "./assets/img/houses/tully.png",
+        "devise": "Famille, Devoir, Honneur",
+        "gens": [
+          {
+            "nom": "Catelyn (Tully) Stark",
+            "description": "Married to Eddard Stark - Daughter of Hoster Tully",
+            "image": "./assets/img/characters/tullyCatelyn.jpg",
+            "wikiSuffix": "Catelyn_Tully"
+          },
+          {
+            "nom": "Lysa (Tully) Arryn",
+            "description": "Widow of Jon Arryn - Daughter of Hoster Tully",
+            "image": "./assets/img/characters/tullyLysa.jpg",
+            "wikiSuffix": "Lysa_Tully"
+          },
+          {
+            "nom": "Edmure Tully",
+            "description": "Heir to Riverrun - Son of Hoster Tully",
+            "image": "./assets/img/characters/tullyEdmure.jpg",
+            "wikiSuffix": "Edmure_Tully"
+          },
+          {
+            "nom": "Brynden Tully",
+            "description": "Lord of Riverrun - Head of House Tully - Brother of Hoster Tully",
+            "image": "./assets/img/characters/tullyBrynden.jpg",
+            "wikiSuffix": "Brynden_Tully"
+          }
+        ]
+      },
+      {
+        "nom": "Arryns",
+        "description": "La Maison Arryn est l'une des grandes maisons de Westeros. Ils règnent sur la vaste région du Val d'Arryn depuis leur siège des Eyrié, un château situé dans les Montagnes de la Lune.",
+        "blason": "./assets/img/houses/arryn.png",
+        "devise": "Aussi haute qu'honneur",
+        "gens": [
+          {
+            "nom": "Jon Arryn",
+            "description": "Lord of the Eyrie - Head of House Arryn - Warden of the East - Defender of the Vale",
+            "image": "./assets/img/characters/arrynJon.jpg",
+            "wikiSuffix": "Jon_Arryn"
+          }
+        ]
+      }
+  ]
